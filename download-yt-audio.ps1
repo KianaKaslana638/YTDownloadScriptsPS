@@ -1,7 +1,7 @@
 # Script by Kiana's Kaheru Choco Parfait
 
+# Gets the URL from the first element from the array $args[].
 $videoURL = $args[0]
-
 
 <#  Calls the yt-dlp with options specified below.
 
